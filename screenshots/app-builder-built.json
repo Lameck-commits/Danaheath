@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lumen Atelier",
+      "hasCanvas": true,
+      "bodyTextLen": 488,
+      "bodyTextHash": "261ab369335948add97591e7bf6f0c604092da4ce76bf2e5ff0a3e4c5d70f121",
+      "bodyTextPrefix": "Lumen Atelier Original stylist. Your soundtrack later. THEME Gol",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lumen Atelier",
+      "hasCanvas": true,
+      "bodyTextLen": 453,
+      "bodyTextHash": "0371b38c16a01ec526a485a9c0f6a25ed2c6d8dd557e2a5d72ec1c258e3b96a6",
+      "bodyTextPrefix": "Lumen Atelier Original stylist. Your soundtrack later. THEME Gol",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
